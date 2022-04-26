@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexibleSpells", "FlexibleSpells\FlexibleSpells.csproj", "{1C837F49-FF25-451E-B006-3A7A01FC9C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexibleSpells.Tests", "FlexibleSpells.Tests\FlexibleSpells.Tests.csproj", "{8CF7B24D-2450-4B4A-9482-3890601A3AD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C837F49-FF25-451E-B006-3A7A01FC9C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C837F49-FF25-451E-B006-3A7A01FC9C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C837F49-FF25-451E-B006-3A7A01FC9C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C837F49-FF25-451E-B006-3A7A01FC9C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF7B24D-2450-4B4A-9482-3890601A3AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF7B24D-2450-4B4A-9482-3890601A3AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF7B24D-2450-4B4A-9482-3890601A3AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF7B24D-2450-4B4A-9482-3890601A3AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
